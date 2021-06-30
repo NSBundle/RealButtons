@@ -1,0 +1,8 @@
+Package: com.nscake.realbuttons
+Name: RealButtons
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make bar buttons look tappable 
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Author: Tanner Bennett <thepantsthief@me.com>
+Section: Tweaks
